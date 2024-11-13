@@ -1,0 +1,45 @@
+[2024-11-11 13:40:42] local.ERROR: The "--columns" option does not exist. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\RuntimeException(code: 0): The \"--columns\" option does not exist. at /home/bilal/Desktop/notes-app/notes-backend/vendor/symfony/console/Input/ArgvInput.php:223)
+[stacktrace]
+#0 /home/bilal/Desktop/notes-app/notes-backend/vendor/symfony/console/Input/ArgvInput.php(150): Symfony\\Component\\Console\\Input\\ArgvInput->addLongOption()
+#1 /home/bilal/Desktop/notes-app/notes-backend/vendor/symfony/console/Input/ArgvInput.php(85): Symfony\\Component\\Console\\Input\\ArgvInput->parseLongOption()
+#2 /home/bilal/Desktop/notes-app/notes-backend/vendor/symfony/console/Input/ArgvInput.php(74): Symfony\\Component\\Console\\Input\\ArgvInput->parseToken()
+#3 /home/bilal/Desktop/notes-app/notes-backend/vendor/symfony/console/Input/Input.php(56): Symfony\\Component\\Console\\Input\\ArgvInput->parse()
+#4 /home/bilal/Desktop/notes-app/notes-backend/vendor/symfony/console/Command/Command.php(285): Symfony\\Component\\Console\\Input\\Input->bind()
+#5 /home/bilal/Desktop/notes-app/notes-backend/vendor/laravel/framework/src/Illuminate/Console/Command.php(181): Symfony\\Component\\Console\\Command\\Command->run()
+#6 /home/bilal/Desktop/notes-app/notes-backend/vendor/symfony/console/Application.php(1096): Illuminate\\Console\\Command->run()
+#7 /home/bilal/Desktop/notes-app/notes-backend/vendor/symfony/console/Application.php(324): Symfony\\Component\\Console\\Application->doRunCommand()
+#8 /home/bilal/Desktop/notes-app/notes-backend/vendor/symfony/console/Application.php(175): Symfony\\Component\\Console\\Application->doRun()
+#9 /home/bilal/Desktop/notes-app/notes-backend/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(201): Symfony\\Component\\Console\\Application->run()
+#10 /home/bilal/Desktop/notes-app/notes-backend/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#11 {main}
+"} 
+[2024-11-11 13:40:44] local.ERROR: The "--columns" option does not exist. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\RuntimeException(code: 0): The \"--columns\" option does not exist. at /home/bilal/Desktop/notes-app/notes-backend/vendor/symfony/console/Input/ArgvInput.php:223)
+[stacktrace]
+#0 /home/bilal/Desktop/notes-app/notes-backend/vendor/symfony/console/Input/ArgvInput.php(150): Symfony\\Component\\Console\\Input\\ArgvInput->addLongOption()
+#1 /home/bilal/Desktop/notes-app/notes-backend/vendor/symfony/console/Input/ArgvInput.php(85): Symfony\\Component\\Console\\Input\\ArgvInput->parseLongOption()
+#2 /home/bilal/Desktop/notes-app/notes-backend/vendor/symfony/console/Input/ArgvInput.php(74): Symfony\\Component\\Console\\Input\\ArgvInput->parseToken()
+#3 /home/bilal/Desktop/notes-app/notes-backend/vendor/symfony/console/Input/Input.php(56): Symfony\\Component\\Console\\Input\\ArgvInput->parse()
+#4 /home/bilal/Desktop/notes-app/notes-backend/vendor/symfony/console/Command/Command.php(285): Symfony\\Component\\Console\\Input\\Input->bind()
+#5 /home/bilal/Desktop/notes-app/notes-backend/vendor/laravel/framework/src/Illuminate/Console/Command.php(181): Symfony\\Component\\Console\\Command\\Command->run()
+#6 /home/bilal/Desktop/notes-app/notes-backend/vendor/symfony/console/Application.php(1096): Illuminate\\Console\\Command->run()
+#7 /home/bilal/Desktop/notes-app/notes-backend/vendor/symfony/console/Application.php(324): Symfony\\Component\\Console\\Application->doRunCommand()
+#8 /home/bilal/Desktop/notes-app/notes-backend/vendor/symfony/console/Application.php(175): Symfony\\Component\\Console\\Application->doRun()
+#9 /home/bilal/Desktop/notes-app/notes-backend/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(201): Symfony\\Component\\Console\\Application->run()
+#10 /home/bilal/Desktop/notes-app/notes-backend/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#11 {main}
+"} 
+[2024-11-11 13:40:46] local.ERROR: The "--columns" option does not exist. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\RuntimeException(code: 0): The \"--columns\" option does not exist. at /home/bilal/Desktop/notes-app/notes-backend/vendor/symfony/console/Input/ArgvInput.php:223)
+[stacktrace]
+#0 /home/bilal/Desktop/notes-app/notes-backend/vendor/symfony/console/Input/ArgvInput.php(150): Symfony\\Component\\Console\\Input\\ArgvInput->addLongOption()
+#1 /home/bilal/Desktop/notes-app/notes-backend/vendor/symfony/console/Input/ArgvInput.php(85): Symfony\\Component\\Console\\Input\\ArgvInput->parseLongOption()
+#2 /home/bilal/Desktop/notes-app/notes-backend/vendor/symfony/console/Input/ArgvInput.php(74): Symfony\\Component\\Console\\Input\\ArgvInput->parseToken()
+#3 /home/bilal/Desktop/notes-app/notes-backend/vendor/symfony/console/Input/Input.php(56): Symfony\\Component\\Console\\Input\\ArgvInput->parse()
+#4 /home/bilal/Desktop/notes-app/notes-backend/vendor/symfony/console/Command/Command.php(285): Symfony\\Component\\Console\\Input\\Input->bind()
+#5 /home/bilal/Desktop/notes-app/notes-backend/vendor/laravel/framework/src/Illuminate/Console/Command.php(181): Symfony\\Component\\Console\\Command\\Command->run()
+#6 /home/bilal/Desktop/notes-app/notes-backend/vendor/symfony/console/Application.php(1096): Illuminate\\Console\\Command->run()
+#7 /home/bilal/Desktop/notes-app/notes-backend/vendor/symfony/console/Application.php(324): Symfony\\Component\\Console\\Application->doRunCommand()
+#8 /home/bilal/Desktop/notes-app/notes-backend/vendor/symfony/console/Application.php(175): Symfony\\Component\\Console\\Application->doRun()
+#9 /home/bilal/Desktop/notes-app/notes-backend/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(201): Symfony\\Component\\Console\\Application->run()
+#10 /home/bilal/Desktop/notes-app/notes-backend/artisan(37): Illuminate\\Foundation\\Console\\Kernel->handle()
+#11 {main}
+"} 
